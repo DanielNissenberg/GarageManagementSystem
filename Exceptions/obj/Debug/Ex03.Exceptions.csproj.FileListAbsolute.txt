@@ -1,0 +1,7 @@
+C:\Users\danie\Desktop\IDC\Second year\Semster B\C#\HW\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\Exceptions\bin\Debug\Exceptions.dll.config
+C:\Users\danie\Desktop\IDC\Second year\Semster B\C#\HW\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\danie\Desktop\IDC\Second year\Semster B\C#\HW\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\danie\Desktop\IDC\Second year\Semster B\C#\HW\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\Exceptions\obj\Debug\Ex03.Exceptions.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\IDC\Second year\Semster B\C#\HW\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\Exceptions\obj\Debug\Ex03.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\IDC\Second year\Semster B\C#\HW\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\danie\Desktop\IDC\Second year\Semster B\C#\HW\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\B21 Ex03 DanielNissenberg 316220904 YoavFeiner 316080779\Exceptions\obj\Debug\Exceptions.pdb
